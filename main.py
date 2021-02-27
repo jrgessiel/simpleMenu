@@ -1,31 +1,5 @@
 # Gessiel
-# Estatísticas das partidas de Free Fire
 
-#Nome do jogador
-
-#Menu
-    #Registrar partidas
-        #Qual posição ficou
-        #Quantos matou?
-            #Quantos foram com tiro na cabeça?
-        #Mais uma?
-    #Ver último registro
-    #Sair
-    
-
-#Partidas
-
-#Vitorias
-
-#Abates
-
-#Detalhes
-    #TOP 10
-    #Taxa de abate
-    #Taxa de tiro na cabeça
-    #Porcentagem de vitorias
-
-#Gravar em um arquivo externo que mantém sempre os ultimos valores
 from modulos.title import title
 from modulos.menu import menu
 from modulos.clear import clear
